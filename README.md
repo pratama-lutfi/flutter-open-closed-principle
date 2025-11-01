@@ -14,3 +14,11 @@ A part of SOLID principle series.
 **Close for modification**
 	- Don't touch stable function
 	- Avoiding modification in the component function
+
+
+## Wrong Example
+- `book.dart` – the class `Book` base class  
+
+## Let's fix 
+- `book-refactored.dart` - the class `Book` base class with refactored code
+
